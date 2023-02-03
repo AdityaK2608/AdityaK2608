@@ -18,7 +18,7 @@
 <br>
 
 <!-- SOCAIL MEDIA HANDLES -->
-[![Linkedin Badge](https://img.shields.io/badge/-AdityaKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya260//)](https://www.linkedin.com/in/aditya260/)
+[![Linkedin Badge](https://img.shields.io/badge/-AdityaKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityak2608//)](https://www.linkedin.com/in/adityak2608/)
 
 [![Gmail Badge](https://img.shields.io/badge/-singhaditya2608@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:singhaditya2608@gmail.com)](mailto:singhaditya2608@gmail.com)
 
