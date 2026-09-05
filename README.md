@@ -23,7 +23,7 @@
 
 I'm **Aditya Kumar**, a technology professional with a strong interest in **cybersecurity, artificial intelligence, automation, and modern web applications**.
 
-I like working at the intersection of **security + intelligence + productivity** — taking a real problem, breaking it down, and turning the solution into something people can actually use.
+I work at the intersection of **security + intelligence + productivity** — taking real problems, breaking them down, and turning solutions into practical tools people can actually use.
 
 > **Think deeply. Build simply. Secure everything. Automate what repeats. Keep improving.**
 
@@ -37,20 +37,21 @@ I like working at the intersection of **security + intelligence + productivity**
 
 ---
 
-## 🚀 Featured Builds
+## 🚀 Active Builds
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🧠 Personal OS
-**A personal command center for work, knowledge and productivity.**
+**Personal command center for work, knowledge and productivity.**
 
-A browser-based personal operating system combining tasks, projects, knowledge, search, local persistence and deterministic intelligence.
+Browser-based productivity system combining tasks, projects, knowledge, search and local persistence.
 
-**Stack:** Native JavaScript • Browser APIs • GitHub Pages
+**Status:** 🟢 Live  
+**Stack:** JavaScript • Browser APIs • GitHub Pages
 
-<a href="https://github.com/AdityaK2608/personal-os">📂 Source</a> · <a href="https://adityak2608.github.io/personal-os/">🚀 Live</a>
+<a href="https://github.com/AdityaK2608/personal-os">📂 Repository</a> · <a href="https://adityak2608.github.io/personal-os/">🚀 Live Demo</a>
 
 </td>
 <td width="50%" valign="top">
@@ -58,11 +59,12 @@ A browser-based personal operating system combining tasks, projects, knowledge, 
 ### ✍️ ClearWrite
 **Write clearly. Sound like yourself.**
 
-An AI-first communication assistant designed around grammar, clarity, tone and workplace writing.
+AI-first communication assistant focused on grammar, clarity, tone and workplace writing.
 
+**Status:** 🧪 Building  
 **Focus:** Writing Intelligence • UX • AI-ready workflows
 
-<a href="https://github.com/AdityaK2608/clearwrite">📂 Source</a>
+<a href="https://github.com/AdityaK2608/clearwrite">📂 Repository</a>
 
 </td>
 </tr>
@@ -72,11 +74,12 @@ An AI-first communication assistant designed around grammar, clarity, tone and w
 ### 🛡️ Sentinel
 **Cybersecurity Command Center**
 
-A browser-first security intelligence workspace exploring domain intelligence, headers, TLS/SSL, DNS, CVEs, OWASP assessment and reporting.
+Browser-first security intelligence workspace covering domain intelligence, headers, TLS/SSL, DNS, CVEs, OWASP assessment and reporting.
 
-**Status:** 🚧 In Development
+**Status:** 🚧 In Development  
+**Focus:** Security Intelligence • Assessment • Reporting
 
-<a href="https://github.com/AdityaK2608/prod-2">📂 Source</a> · <a href="https://adityak2608.github.io/prod-2/">🌐 Project</a>
+<a href="https://github.com/AdityaK2608/prod-2">📂 Repository</a> · <a href="https://adityak2608.github.io/prod-2/">🌐 Project</a>
 
 </td>
 <td width="50%" valign="top">
@@ -84,11 +87,12 @@ A browser-first security intelligence workspace exploring domain intelligence, h
 ### 🎯 Qentra
 **Exam Intelligence Workspace**
 
-An intelligent learning workspace focused initially on Bihar teacher examinations, including STET and TRE Computer Science.
+Learning workspace focused initially on Bihar teacher examinations, including STET and TRE Computer Science.
 
+**Status:** 🧪 Experimenting  
 **Focus:** PYQ Intelligence • Adaptive Learning • Exam Analytics
 
-<a href="https://github.com/AdityaK2608/Qentra">📂 Source</a>
+<a href="https://github.com/AdityaK2608/Qentra">📂 Repository</a>
 
 </td>
 </tr>
@@ -96,7 +100,20 @@ An intelligent learning workspace focused initially on Bihar teacher examination
 
 ---
 
-## 🧰 My Tech Stack
+## 📡 Build Dashboard
+
+| Project | Status | Primary Focus | Access |
+|:---|:---:|:---|:---:|
+| 🧠 Personal OS | 🟢 Live | Productivity & Personal Systems | [Live](https://adityak2608.github.io/personal-os/) |
+| ✍️ ClearWrite | 🧪 Building | AI & Communication | [Repo](https://github.com/AdityaK2608/clearwrite) |
+| 🛡️ Sentinel | 🚧 Development | Cybersecurity | [Project](https://adityak2608.github.io/prod-2/) |
+| 🎯 Qentra | 🧪 Experimenting | EdTech & Exam Intelligence | [Repo](https://github.com/AdityaK2608/Qentra) |
+
+> **Build → Test → Secure → Automate → Ship → Improve**
+
+---
+
+## 🧰 Tech Stack
 
 <div align="center">
 
