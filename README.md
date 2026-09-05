@@ -1,61 +1,69 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0B1120,65:1E3A8A,100:06B6D4&height=280&section=header&text=ADITYA%20KUMAR&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=CYBERSECURITY%20%20%E2%80%A2%20%20AI%20%20%E2%80%A2%20%20AUTOMATION%20%20%E2%80%A2%20%20PRODUCT%20ENGINEERING&descAlignY=60&descSize=15&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,65:1E3A8A,100:06B6D4&height=280&section=header&text=ADITYA%20KUMAR&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=SECURITY%20%E2%80%A2%20AI%20%E2%80%A2%20AUTOMATION%20%E2%80%A2%20PRODUCT%20ENGINEERING&descAlignY=61&descSize=16&animation=fadeIn" width="100%" />
 
 # ADITYA KUMAR
 
-### `SECURITY × INTELLIGENCE × AUTOMATION`
-
-**I build practical technology that is secure, intelligent, automated, and useful.**
+### Security-minded engineer building useful systems at the intersection of **Cybersecurity, AI & Automation**.
 
 <p>
-<a href="https://github.com/AdityaK2608"><img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/adityak2608/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://adityak2608.github.io/adityaportfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="mailto:singhaditya2608@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/AdityaK2608"><img src="https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/adityak2608/"><img src="https://img.shields.io/badge/LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="https://adityak2608.github.io/adityaportfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-0B1220?style=for-the-badge&logo=googlechrome&logoColor=06B6D4" /></a>
+<a href="mailto:singhaditya2608@gmail.com"><img src="https://img.shields.io/badge/CONTACT-0B1220?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=AdityaK2608&label=PROFILE%20VIEWS&style=flat-square&color=06B6D4" />
+<img src="https://komarev.com/ghpvc/?username=AdityaK2608&label=PROFILE%20VIEWS&style=flat-square&color=1E3A8A" />
 
 </div>
 
 ---
 
-## `01` — PROFILE
+## `01` — SYSTEM STATUS
 
-> **Technology professional focused on cybersecurity, AI, automation, and modern web products.**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I like taking messy, real-world problems and turning them into **clean, useful systems**. My approach sits at the intersection of security, intelligence, productivity, and product engineering.
+### `● ONLINE`
+**Aditya Kumar**  
+Security • AI • Automation • Product Engineering
+
+> I turn real-world problems into practical, secure and intelligent digital systems.
+
+</td>
+<td width="50%" valign="top">
+
+### `CURRENTLY BUILDING`
 
 ```text
-THINK DEEPLY  →  BUILD SIMPLY  →  SECURE EVERYTHING
-       ↓
-AUTOMATE WHAT REPEATS  →  SHIP  →  KEEP IMPROVING
+PERSONAL OS       ██████████  LIVE
+SENTINEL          ███████░░░  BUILDING
+CLEARWRITE        ██████░░░░  BUILDING
+QENTRA            █████░░░░░  EXPLORING
 ```
 
-### Core Areas
-
-| `SECURITY` | `INTELLIGENCE` | `AUTOMATION` | `PRODUCTS` |
-|:---:|:---:|:---:|:---:|
-| Security Operations | Artificial Intelligence | Workflow Automation | Web Applications |
-| Monitoring & Analysis | AI Workflows | Productivity Systems | Dashboards |
-| Security Assessment | Intelligent Tools | Repeatable Processes | Browser-first UX |
-| Security-minded Engineering | Experimentation | Process Optimization | MVPs & Prototypes |
+</td>
+</tr>
+</table>
 
 ---
 
-## `02` — BUILD CONSOLE
+## `02` — ENGINEERING PROFILE
 
 <div align="center">
 
-| SYSTEM | STATUS | MISSION |
-|:---|:---:|:---|
-| 🧠 **Personal OS** | 🟢 `LIVE` | Personal productivity & knowledge system |
-| ✍️ **ClearWrite** | 🟡 `BUILDING` | AI-assisted communication intelligence |
-| 🛡️ **Sentinel** | 🔵 `DEVELOPMENT` | Cybersecurity intelligence & assessment |
-| 🎯 **Qentra** | 🟣 `EXPERIMENTING` | Exam intelligence & adaptive learning |
+| SECURITY | INTELLIGENCE | SYSTEMS | PRODUCT |
+|:---:|:---:|:---:|:---:|
+| Cybersecurity | AI Workflows | Automation | Web Products |
+| Security Ops | Intelligent Tools | Productivity | UX / Interfaces |
+| Monitoring | Experimentation | Browser Systems | Rapid Prototyping |
 
 </div>
+
+I enjoy working where **security meets useful software** — understanding a problem, designing the simplest reliable solution, building it, testing it, securing it, and shipping it.
+
+> **Think deeply. Build simply. Secure everything. Automate what repeats. Keep improving.**
 
 ---
 
@@ -65,64 +73,56 @@ AUTOMATE WHAT REPEATS  →  SHIP  →  KEEP IMPROVING
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 PERSONAL OS
+### `01` — PERSONAL OS
 
-**Your personal command center.**
+**Personal command center**
 
-A browser-based operating system for tasks, projects, knowledge, search, productivity, and personal intelligence.
+A browser-first productivity system for tasks, projects, knowledge, search and personal workflows.
 
-`JAVASCRIPT` `BROWSER APIs` `GITHUB PAGES`
+`LIVE` · `JAVASCRIPT` · `BROWSER APIs`
 
-**V7.x • LIVE**
-
-[ VIEW SOURCE →](https://github.com/AdityaK2608/personal-os)  ·  [ OPEN SYSTEM →](https://adityak2608.github.io/personal-os/)
+<a href="https://adityak2608.github.io/personal-os/">↗ Open system</a> · <a href="https://github.com/AdityaK2608/personal-os">Source</a>
 
 </td>
 <td width="50%" valign="top">
 
-### ✍️ CLEARWRITE
+### `02` — SENTINEL
 
-**Write clearly. Sound like yourself.**
+**Cybersecurity command center**
 
-AI-first communication assistant designed around grammar, clarity, tone, and workplace writing.
+Security intelligence workspace covering domain intelligence, headers, TLS/SSL, DNS, CVEs, OWASP assessment and reporting.
 
-`WRITING INTELLIGENCE` `UX` `AI-READY`
+`BUILDING` · `SECURITY` · `INTELLIGENCE`
 
-**V2 • BUILDING**
-
-[ VIEW SOURCE →](https://github.com/AdityaK2608/clearwrite)
+<a href="https://adityak2608.github.io/prod-2/">↗ Open project</a> · <a href="https://github.com/AdityaK2608/prod-2">Source</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ SENTINEL
+### `03` — CLEARWRITE
 
-**Cybersecurity Command Center.**
+**Writing intelligence**
 
-Browser-first security workspace covering domain intelligence, security headers, TLS/SSL, DNS, CVEs, OWASP assessment, and reporting.
+A focused communication assistant designed around clarity, tone, grammar and practical workplace writing.
 
-`SECURITY` `ASSESSMENT` `REPORTING`
+`BUILDING` · `AI` · `UX`
 
-**IN DEVELOPMENT**
-
-[ VIEW SOURCE →](https://github.com/AdityaK2608/prod-2)  ·  [ OPEN PROJECT →](https://adityak2608.github.io/prod-2/)
+<a href="https://github.com/AdityaK2608/clearwrite">↗ Explore repository</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 QENTRA
+### `04` — QENTRA
 
-**Exam Intelligence Workspace.**
+**Exam intelligence workspace**
 
-Learning platform focused initially on Bihar teacher examinations, with emphasis on STET and TRE Computer Science.
+An experimentation space for PYQ intelligence, adaptive learning and exam analytics.
 
-`PYQ INTELLIGENCE` `ADAPTIVE LEARNING` `ANALYTICS`
+`EXPLORING` · `EDTECH` · `ANALYTICS`
 
-**EXPERIMENTING**
-
-[ VIEW SOURCE →](https://github.com/AdityaK2608/Qentra)
+<a href="https://github.com/AdityaK2608/Qentra">↗ Explore repository</a>
 
 </td>
 </tr>
@@ -130,7 +130,32 @@ Learning platform focused initially on Bihar teacher examinations, with emphasis
 
 ---
 
-## `04` — ENGINEERING STACK
+## `04` — BUILD CONSOLE
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│ ADITYA@GITHUB ~ $ ./build-status                             │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  PERSONAL OS     [ LIVE ]       productivity / systems       │
+│  SENTINEL        [ BUILDING ]   cybersecurity / intelligence │
+│  CLEARWRITE      [ BUILDING ]   AI / communication          │
+│  QENTRA          [ EXPLORING ]  learning / analytics        │
+│                                                              │
+│  NEXT → stronger security tooling + intelligent workflows    │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+### Build philosophy
+
+**PROBLEM → UNDERSTAND → DESIGN → BUILD → TEST → SECURE → AUTOMATE → SHIP → IMPROVE ↺**
+
+I don't build just to write code. **I build to solve problems.**
+
+---
+
+## `05` — TECHNOLOGY
 
 <div align="center">
 
@@ -138,67 +163,21 @@ Learning platform focused initially on Bihar teacher examinations, with emphasis
 
 <br><br>
 
-<img src="https://img.shields.io/badge/CYBERSECURITY-020617?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
-<img src="https://img.shields.io/badge/AI-020617?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/AUTOMATION-020617?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/WEB-020617?style=for-the-badge&logo=googlechrome&logoColor=white" />
-<img src="https://img.shields.io/badge/LINUX-020617?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/CYBERSECURITY-0B1220?style=flat-square&logo=hackthebox&logoColor=9FEF00" />
+<img src="https://img.shields.io/badge/AI-0B1220?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/AUTOMATION-0B1220?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/WEB%20ENGINEERING-0B1220?style=flat-square&logo=googlechrome&logoColor=06B6D4" />
 
 </div>
 
-### What I work with
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│ SECURITY                                                    │
-│ Monitoring • Analysis • Security Operations • Assessment    │
-├─────────────────────────────────────────────────────────────┤
-│ AI & INTELLIGENCE                                           │
-│ AI Assistants • Intelligent Workflows • Experimentation     │
-├─────────────────────────────────────────────────────────────┤
-│ AUTOMATION                                                  │
-│ Workflow Design • Productivity Systems • Process Thinking   │
-├─────────────────────────────────────────────────────────────┤
-│ PRODUCT ENGINEERING                                        │
-│ Web Apps • Dashboards • Browser-first Products • MVPs      │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-## `05` — ENGINEERING MINDSET
-
-```text
-                     ┌──────────────┐
-                     │    PROBLEM   │
-                     └──────┬───────┘
-                            ↓
-                     ┌──────────────┐
-                     │  UNDERSTAND  │
-                     └──────┬───────┘
-                            ↓
-              ┌───────────────────────────┐
-              │      EXPLORE → BUILD     │
-              └─────────────┬─────────────┘
-                            ↓
-                     ┌──────────────┐
-                     │ TEST + SECURE│
-                     └──────┬───────┘
-                            ↓
-                     ┌──────────────┐
-                     │   AUTOMATE   │
-                     └──────┬───────┘
-                            ↓
-                     ┌──────────────┐
-                     │     SHIP     │
-                     └──────┬───────┘
-                            ↓
-                     ┌──────────────┐
-                     │  IMPROVE ↺   │
-                     └──────────────┘
-```
-
-> **I don't build just to write code. I build to solve problems.**
+| Capability | Focus |
+|:---|:---|
+| **Security** | Security operations, monitoring, analysis, vulnerability awareness |
+| **AI** | AI assistants, intelligent workflows, AI-first product experiments |
+| **Automation** | Repeatable workflows, productivity systems, process optimization |
+| **Web Engineering** | Responsive browser applications, dashboards and interfaces |
+| **Linux** | Administration, troubleshooting and security-focused workflows |
+| **Product Building** | MVPs, prototypes, practical tools and rapid iteration |
 
 ---
 
@@ -207,11 +186,11 @@ Learning platform focused initially on Bihar teacher examinations, with emphasis
 <div align="center">
 
 <a href="https://github.com/AdityaK2608">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AdityaK2608&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=AdityaK2608&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" />
 </a>
 
 <a href="https://github.com/AdityaK2608">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaK2608&layout=compact&hide_border=true&theme=transparent" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaK2608&layout=compact&hide_border=true&theme=transparent" />
 </a>
 
 <br><br>
@@ -222,71 +201,65 @@ Learning platform focused initially on Bihar teacher examinations, with emphasis
 
 ---
 
-## `07` — CURRENTLY BUILDING
+## `07` — CURRENT MISSION
 
 ```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│  > focus --current                                           │
-│                                                              │
-│  [01] Strengthen cybersecurity & security-operations skills  │
-│  [02] Turn AI concepts into usable products                  │
-│  [03] Build automation-first workflows                       │
-│  [04] Ship browser-first applications                        │
-│  [05] Convert experiments into real-world tools               │
-│                                                              │
-│  status: BUILDING ███████████████████░░░                     │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
+                    SECURITY
+                       │
+                       ▼
+              ┌─────────────────┐
+              │    ADITYA OS    │
+              │                 │
+        AI ───┤   BUILD SYSTEMS │─── AUTOMATION
+              │                 │
+              └────────┬────────┘
+                       │
+                       ▼
+               USEFUL PRODUCTS
 ```
 
 ### The direction
 
-```text
-CYBERSECURITY  +  AI  +  AUTOMATION  +  PRODUCT ENGINEERING
-                              ↓
-                 USEFUL • SECURE • INTELLIGENT
-                         SYSTEMS & PRODUCTS
-```
+- Build stronger **cybersecurity and security-operations capabilities**
+- Turn AI concepts into **usable tools and workflows**
+- Create **automation-first systems** that eliminate repetitive work
+- Ship **browser-first products** with minimal friction
+- Turn experiments into **real, usable systems**
 
 ---
 
-## `08` — PRINCIPLES
-
-**01 — Build for usefulness.**  
-Technology should reduce complexity, not create more of it.
-
-**02 — Security is a feature.**  
-Secure thinking belongs in the product from the beginning.
-
-**03 — Automate repetition.**  
-If a workflow happens repeatedly, it deserves a better system.
-
-**04 — Learn by shipping.**  
-Real projects expose problems that tutorials cannot.
-
-**05 — Keep improving.**  
-Every shipped version is a starting point for the next one.
-
----
-
-## `09` — CONNECT
+## `08` — OPERATING PRINCIPLES
 
 <div align="center">
 
-### Have an interesting problem to solve?
+**01** — Start with the problem.  
+**02** — Keep the solution simple.  
+**03** — Treat security as a feature.  
+**04** — Automate what repeats.  
+**05** — Ship early. Learn quickly.  
+**06** — Improve continuously.
 
-**Let's build something useful.**
+</div>
+
+---
+
+## `09` — LET'S CONNECT
+
+<div align="center">
+
+### Building something useful?
+
+I'm interested in **cybersecurity, AI, automation, software engineering and practical products**.
 
 <br>
 
-<a href="https://www.linkedin.com/in/adityak2608/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://adityak2608.github.io/adityaportfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="mailto:singhaditya2608@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/adityak2608/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0B1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="https://adityak2608.github.io/adityaportfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-0B1220?style=for-the-badge&logo=googlechrome&logoColor=06B6D4" /></a>
+<a href="mailto:singhaditya2608@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-0B1220?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
 
 <br><br>
 
-`BUILD`  `SECURE`  `AUTOMATE`  `SHIP`  `IMPROVE`
+<sub>Build useful things. Secure them. Automate them. Make them better.</sub>
 
 </div>
 
@@ -294,6 +267,6 @@ Every shipped version is a starting point for the next one.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,45:1E3A8A,100:020617&height=140&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,45:1E3A8A,100:020617&height=130&section=footer" width="100%" />
 
 </div>
