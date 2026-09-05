@@ -1,111 +1,149 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2FF&height=180&section=header&text=Aditya%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+<a href="https://github.com/AdityaK2608">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:2563EB,100:06B6D4&height=220&section=header&text=ADITYA%20KUMAR&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CYBERSECURITY%20%7C%20AUTOMATION%20%7C%20AI%20%7C%20DEVELOPMENT&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
+</a>
 
-# 👋 Hey, I'm Aditya
+# 👋 Hi, I'm Aditya Kumar
 
-### 🚀 Building • 🔐 Securing • 🤖 Automating • 💡 Experimenting
+### `Building things. Securing things. Automating things.`
 
 <p>
-  <a href="https://github.com/AdityaK2608"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/adityak2608/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:singhaditya2608@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/AdityaK2608"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" /></a>
+<a href="https://www.linkedin.com/in/adityak2608/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+<a href="mailto:singhaditya2608@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=AdityaK2608&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=AdityaK2608&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 Who Am I?
 
-I'm **Aditya Kumar** — a technology enthusiast who enjoys turning ideas into practical, useful solutions.
+I'm **Aditya Kumar**, a technology professional who enjoys solving practical problems through **technology, automation, cybersecurity and AI**.
 
-I’m interested in the intersection of **software, cybersecurity, automation and AI**, with a focus on learning by building and continuously improving what I create.
+I like taking an idea from **"What if...?"** to something people can actually use — experimenting, breaking things, fixing them, and continuously improving the result.
+
+> **Think → Build → Test → Secure → Automate → Improve**
+
+---
+
+## ⚡ My Tech Interests
+
+<div align="center">
+
+| 🔐 Cybersecurity | 🤖 AI & Automation | 🌐 Development |
+|:---:|:---:|:---:|
+| Security Operations | AI-powered Tools | Web Projects |
+| Monitoring | Workflow Automation | Practical Apps |
+| Security Mindset | Intelligent Workflows | Problem Solving |
+
+</div>
+
+---
+
+## 🚀 What I'm Building
+
+I use GitHub as my **digital workshop** — a place to turn ideas into working projects.
 
 ```text
-Curious mind        → Learn
-Builder             → Create
-Problem solver      → Improve
-Automation mindset  → Simplify
-Security mindset    → Protect
+╭──────────────────────────────────────────────╮
+│                                              │
+│   💡 IDEA                                    │
+│      ↓                                       │
+│   🧪 EXPERIMENT                              │
+│      ↓                                       │
+│   🔨 BUILD                                   │
+│      ↓                                       │
+│   🔐 SECURE                                  │
+│      ↓                                       │
+│   ⚙️ AUTOMATE                                │
+│      ↓                                       │
+│   🚀 SHIP                                    │
+│      ↓                                       │
+│   🔄 IMPROVE                                 │
+│                                              │
+╰──────────────────────────────────────────────╯
+```
+
+My goal isn't simply to write code — **it's to create useful solutions.**
+
+---
+
+## 🛠️ Areas I'm Exploring
+
+```yaml
+Cybersecurity:
+  - Security Operations
+  - Monitoring & Analysis
+  - Practical Security
+
+Artificial Intelligence:
+  - AI-powered applications
+  - AI experimentation
+  - Intelligent workflows
+
+Automation:
+  - Workflow optimization
+  - Repetitive-task automation
+  - Productivity tools
+
+Development:
+  - Web applications
+  - Digital products
+  - User-focused solutions
 ```
 
 ---
 
-## ⚡ What I’m Into
-
-| Area | Focus |
-|---|---|
-| 🔐 **Cybersecurity** | Security operations, monitoring & practical security |
-| 🤖 **Artificial Intelligence** | AI-powered tools & experimentation |
-| ⚙️ **Automation** | Reducing repetitive work & improving workflows |
-| 🌐 **Web Development** | Building practical web-based projects |
-| 🧩 **Problem Solving** | Turning real problems into usable solutions |
-
----
-
-## 🛠️ My Approach
+## 📊 GitHub Snapshot
 
 <div align="center">
 
-### 💭 Idea
-**↓**
-### 🧪 Experiment
-**↓**
-### 🔨 Build
-**↓**
-### 🚀 Deploy
-**↓**
-### 🔄 Improve
-
-</div>
-
-I believe the best way to learn technology is to **build real things, break them, understand why, and make them better.**
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AdityaK2608&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaK2608&layout=compact&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AdityaK2608&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" />
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaK2608&layout=compact&hide_border=true&theme=transparent" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=AdityaK2608&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=AdityaK2608&hide_border=true&theme=transparent" />
 
 </div>
 
 ---
 
-## 🌱 Currently
+## 🎯 Current Focus
 
-- 🔭 Exploring **AI, automation and practical software projects**
-- 🔐 Growing deeper into **cybersecurity and security operations**
-- 🧠 Learning by building and experimenting
-- 🚀 Turning ideas into useful digital products
+- 🔐 Going deeper into **cybersecurity & security operations**
+- 🤖 Exploring **AI-powered solutions**
+- ⚙️ Building **automation-driven workflows**
+- 🌐 Creating **useful web-based tools**
+- 🧠 Learning through **hands-on projects**
 
 ---
 
-## 🤝 Let's Connect
+## 💬 Let's Build Something
 
-Have an interesting idea, project, collaboration or technology discussion?
-
-**Feel free to reach out.**
+I'm interested in conversations around **technology, cybersecurity, AI, automation, development and interesting ideas worth building.**
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/adityak2608/">💼 LinkedIn</a> &nbsp; • &nbsp;
-<a href="mailto:singhaditya2608@gmail.com">📧 Email</a> &nbsp; • &nbsp;
-<a href="https://github.com/AdityaK2608">⭐ GitHub</a>
+<a href="https://www.linkedin.com/in/adityak2608/">💼 LinkedIn</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="mailto:singhaditya2608@gmail.com">📧 Email</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://github.com/AdityaK2608">🐙 GitHub</a>
 
 <br><br>
 
-### ⭐ Thanks for stopping by!
+### ⭐ If you find something useful here, feel free to explore and connect.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=100&section=footer" width="100%" />
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:111827&height=120&section=footer" width="100%" />
 
 </div>
